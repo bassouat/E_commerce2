@@ -8,4 +8,8 @@ public class ProductService {
 
     @Autowired
     private ProductRepository productRepository;
+
+    public void getProduct(){
+
+    }
 }
